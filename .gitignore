@@ -1,0 +1,21 @@
+# Ignore everything
+*
+
+# Allowlist
+!.gitignore
+!*.md
+!*.py
+
+# Generic Ignores (Just in case)
+*.log
+*.db
+*.db-shm
+*.db-wal
+*.pyc
+._*
+__pycache__
+*.bak
+
+# Ignore folders.
+
+#Specific Ignores
